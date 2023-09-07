@@ -2,7 +2,7 @@
 
 Currently pursuing Masters in Applied computer science at Northwest Missouri state university 👋
 
-I'm interested in travelling and exploring places, listening songs , .swimming
+I'm interested in travelling and exploring places, listening songs, swimming.
 
 <!--
 **nikhithasree/nikhithasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
